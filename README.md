@@ -15,3 +15,5 @@ Aplicativo feito exclusivamente por mim utilizando bibliografias e videos-aulas 
 - APIs
 - mySQL
 - NodeJs / NextJs
+- RadixUI e ShadcnUI
+- React Router Dom
